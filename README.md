@@ -2,7 +2,7 @@
 <h1> Fortinvent</h1>
 
 <p align="justify">
-  Este repositorio recoge el trabajo final de la asignatura de Organización Empresarial, con el objetivo de desarrollar una idea empresarial.
+  Este repositorio recoge el trabajo final de la asignatura de Organización Empresarial, con el objetivo de desarrollar una idea empresarial aducuada y realista con la situación del sector tecnológico.
 </p>
 
 
