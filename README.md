@@ -5,8 +5,6 @@
   Este repositorio recoge el trabajo final de la asignatura de Organización Empresarial, con el objetivo de desarrollar una idea empresarial aducuada y realista con la situación del sector tecnológico.
 </p>
 
-
-
 <!-- *** SECCION PRESEMTACION *** -->
 <h3> 📌 Nuestro equipo </h3>
 <ul>
